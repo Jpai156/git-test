@@ -13,6 +13,8 @@ public class AA {
         System.out.println("bbb");
         System.out.println("ddd");
         System.out.println("cccccc");
+        System.out.println("");
+        System.out.println("hot-fix test");
     }
 
 }
