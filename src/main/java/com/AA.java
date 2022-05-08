@@ -17,6 +17,7 @@ public class AA {
         System.out.println("hot-fix test");
         System.out.println("push test Gitee 33333");
         System.out.println("Gitee pull test");
+        System.out.println("GitHub pull test2");
     }
 
 }
